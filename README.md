@@ -1,6 +1,15 @@
 # 📘 Brevet fédéral Développement de systèmes
 ## Architecture, conception et maintenance logicielle
 
+[![GitHub stars](https://img.shields.io/github/stars/michaelgermini/Brevet-federal-Developpement-de-systemes?style=social)](https://github.com/michaelgermini/Brevet-federal-Developpement-de-systemes/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/michaelgermini/Brevet-federal-Developpement-de-systemes?style=social)](https://github.com/michaelgermini/Brevet-federal-Developpement-de-systemes/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+> Manuel complet de préparation au Brevet fédéral de spécialiste en développement de systèmes
+> 
+> **7 parties • 16 chapitres • ~300 pages • Multi-langages • Open Source**
+
 ---
 
 ## 🧭 Introduction générale
@@ -191,11 +200,64 @@ Le manuel est organisé en **7 parties** comprenant **16 chapitres**, pour un to
 
 ---
 
-## ⚖️ Licence et utilisation
+## 🤝 Contribuer
 
-Ce manuel est conçu comme ressource éducative pour la préparation au Brevet fédéral. 
+Ce manuel est un projet **open source** ! Vos contributions sont les bienvenues pour l'améliorer et le maintenir à jour.
 
-**Bonne préparation et excellente réussite dans votre parcours professionnel!**
+### Comment contribuer
+1. **Fork** le projet
+2. Créez une branche pour votre contribution (`git checkout -b feature/amelioration`)
+3. Commitez vos changements (`git commit -m 'docs: amélioration section X'`)
+4. Poussez vers votre fork (`git push origin feature/amelioration`)
+5. Ouvrez une **Pull Request**
+
+### Types de contributions appréciées
+- ✅ Corrections de typos ou erreurs factuelles
+- ✅ Ajout d'exemples de code
+- ✅ Amélioration des explications
+- ✅ Traduction en d'autres langues
+- ✅ Ajout de ressources et références
+- ✅ Exercices pratiques supplémentaires
+
+Voir [CONTRIBUTING.md](./CONTRIBUTING.md) pour plus de détails.
+
+---
+
+## ⭐ Donnez une étoile !
+
+Si ce manuel vous aide dans votre préparation au Brevet fédéral, n'hésitez pas à lui donner une ⭐ sur GitHub. Cela aide d'autres candidats à le découvrir !
+
+---
+
+## 📧 Contact
+
+- **Auteur:** Michael Germini
+- **Email:** michael@germini.info
+- **GitHub:** [@michaelgermini](https://github.com/michaelgermini)
+- **Repository:** [Brevet-federal-Developpement-de-systemes](https://github.com/michaelgermini/Brevet-federal-Developpement-de-systemes)
+
+### Signaler un problème
+Trouvé une erreur ou avez une suggestion ? [Ouvrez une issue](https://github.com/michaelgermini/Brevet-federal-Developpement-de-systemes/issues/new) !
+
+---
+
+## ⚖️ Licence
+
+Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+Vous êtes libre de:
+- ✅ Utiliser ce manuel pour votre apprentissage
+- ✅ Partager avec d'autres étudiants
+- ✅ Modifier et adapter à vos besoins
+- ✅ Contribuer à l'amélioration
+
+---
+
+## 🙏 Remerciements
+
+Merci à tous les développeurs, architectes et formateurs qui partagent leurs connaissances et contribuent à l'écosystème open source.
+
+**Bonne préparation et excellente réussite dans votre parcours professionnel!** 🎓
 
 ---
 
