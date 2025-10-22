@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Node modules (si exemples JS)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Java
+*.class
+target/
+*.jar
+*.war
+
+# Build
+build/
+dist/
+out/
+
